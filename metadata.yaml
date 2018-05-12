@@ -1,0 +1,56 @@
+_repo: The-Lilac-Fairy-Book_28096
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Title; Contents; Preface; The Shifty Lad; The False Prince And The True;
+  The Jogi's Punishment; The Heart Of A Monkey; The Fairy Nurse; A Lost Paradise;
+  How Brave Walter Hunted Wolves; The King Of The Waterfalls; A French Puck; The Three
+  Crowns; The Story Of A Very Bad Boy; The Brown Bear Of Norway; Little Lasse; 'moti';
+  The Enchanted Deer; A Fish Story; The Wonderful Tune.; The Rich Brother And The
+  Poor Brother; The One-handed Girl; The Bones Of Djulung; The Sea King's Gift; The
+  Raspberry Worm; The Stones Of Plouhinec; The Castle Of Kerglas; The Battle Of The
+  Birds; The Lady Of The Fountain.
+gutenberg_issued: '2009-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28096'
+  lccn: '10023653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Folklore'
+tableOfContents: The Shifty Lad -- The False Prince and the True -- The Jogi's Punishment
+  -- The Heart of a Monkey -- The Fairy Nurse -- A Lost Paradise -- How Brave Walter
+  Hunted Wolves -- The Ring of the Waterfalls -- A French Puck -- The Three Crowns
+  -- The Story of a Very Bad Boy -- The Brown Bear of Norway -- Little Lasse -- 'Moti'
+  -- The Enchanted Deer -- A Fish Story -- The Wonderful Tune -- The Rich Brother
+  and the Poor Brother -- The One-Handed Girl -- The Bones of Djulung -- The Sea Ring's
+  Gift -- The Raspberry Worm -- The Stones of Plouhinec -- The Castle of Kerglas --
+  The Battle of the Birds -- The Lady of the Fountain -- The Four Gifts -- The Groac'h
+  of the Isle of Lok -- The Escape of the Mouse -- The Believing Husbands -- The Hoodie-Crow
+  -- The Brownie of the Lake -- The Winning of Olwen.
+title: The Lilac Fairy Book
+url: http://www.gutenberg.org/ebooks/28096
